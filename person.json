@@ -1,0 +1,19 @@
+{
+    "firstname": "Tina",
+    "gender": true,
+    "height": 150,
+    "email": "tina@gmail.com",
+    "city": {
+        "通訊地址": "台北",
+        "戶籍地址": "台北"
+    },
+    "phone": {
+        "市話": "02-29881055",
+        "行動電話": "0919-276361"
+    },
+    "cars": [
+        "BMW",
+        "Bens",
+        "Audi"
+    ]
+}
